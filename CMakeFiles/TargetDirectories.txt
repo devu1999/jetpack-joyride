@@ -1,0 +1,3 @@
+/home/devansh/Desktop/2_2/graphics/assignment1/assign1/CMakeFiles/edit_cache.dir
+/home/devansh/Desktop/2_2/graphics/assignment1/assign1/CMakeFiles/rebuild_cache.dir
+/home/devansh/Desktop/2_2/graphics/assignment1/assign1/CMakeFiles/graphics_asgn1.dir
